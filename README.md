@@ -1,0 +1,4 @@
+practicaYii
+===========
+
+prueba de funcionamiento
